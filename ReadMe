@@ -1,0 +1,3 @@
+PRJ 1: Application of clustering to support the automated refactoring of God classes. Find the so called ’God classes’ in the Java library Xerces2, used for parsing, validating and manipulating XML documents.
+
+PRJ 2: build 5 different classification algorithms to predict bug proneness of classes from code and NLP metrics, where we can say that a bug prone class is a class that deserves verification and validation because it could contain bugs.
